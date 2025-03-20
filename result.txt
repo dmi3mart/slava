@@ -1,24 +1,18 @@
 
-Строка #1: The id field must be an integer., The date field must be a valid date., The date field must be a date after now-25 years.
+Строка #7737: The name field format is invalid.
 
-Строка #2: The date field must be a date after now-25 years.
+Строка #10023: The date field must match the format d.m.Y.
 
-Строка #3: The date field must be a date after now-25 years.
+Строка #34126: The name field format is invalid.
 
-Строка #4: The date field must be a date after now-25 years.
+Строка #37755: The id field must be an integer.
 
-Строка #5: The date field must be a date after now-25 years.
+Строка #39108: The date field must be a valid date., The date field must match the format d.m.Y.
 
-Строка #6: The date field must be a date after now-25 years.
+Строка #46082: The name field format is invalid.
 
-Строка #7: The date field must be a date after now-25 years.
+Строка #46160: The date field must be a valid date., The date field must match the format d.m.Y.
 
-Строка #8: The date field must be a date after now-25 years.
+Строка #49316: The date field must be a valid date., The date field must match the format d.m.Y.
 
-Строка #9: The date field must be a date after now-25 years.
-
-Строка #12: The date field must be a date after now-25 years.
-
-Строка #13: The date field must be a date after now-25 years.
-
-Строка #15: The date field must be a date after now-25 years.
+Строка #59985: The date field must be a valid date., The date field must match the format d.m.Y.
