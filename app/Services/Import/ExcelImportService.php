@@ -15,7 +15,7 @@ class ExcelImportService
      * @var array|array[]
      */
     protected array $rules = [
-        'id' => ['required', 'integer', 'unique:records,id'],
+        'id' => ['required', 'integer', 'min:1', 'max:18446744073709551615', 'unique:records,id'],
         'name' => ['required', 'string', 'min:3', 'max:255', 'regex:/^[\pL\s\'-]+$/u'],
         'date' => ['required', 'date', 'date_format:d.m.Y'],
     ];
